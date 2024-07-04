@@ -68,7 +68,10 @@ git pull origin main
 git push origin feature/#7
 ````
 <br>
+
 **main을 pull했을 때, 에러가 발생하면 해당 에러를 수정하는 작업을 반드시 진행해주세요!**
+
+<br>
 
 9. PR을 진행하고, 문제가 없다면 Reviewer가 Merge를 진행합니다.
 <br>
